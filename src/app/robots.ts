@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://garvitarora.vercel.app/sitemap.xml",
+    sitemap: "https://garvitarora.me/sitemap.xml",
   };
 }

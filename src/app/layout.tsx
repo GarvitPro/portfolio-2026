@@ -49,7 +49,7 @@ const fontMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://garvitarora.vercel.app"),
+  metadataBase: new URL("https://garvitarora.me"),
   title: {
     default: "PORTFOLIO 2026 — GARVIT ARORA | AI ENGINEER & DEVELOPER",
     template: "%s | Garvit Arora",
