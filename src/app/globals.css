@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-cream: #faf3e3;
+  --ink-navy: #22307d;
+  --marker-yellow: #f5d74d;
+  --kraft-tan: #d4a362;
+  --y2k-purple: #5e52c6;
+}
+
+html {
+  background-color: #faf3e3;
+  color: #22307d;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #faf3e3;
+  background-image:
+    linear-gradient(to right, rgba(34, 48, 125, 0.095) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(34, 48, 125, 0.095) 1px, transparent 1px);
+  background-size: 44px 44px;
+  color: #22307d;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: #f5d74d;
+  color: #22307d;
+}
+
+/* Plastic Cellophane Sleeve sheen effect */
+.plastic-sleeve {
+  position: relative;
+  background: rgba(255, 255, 255, 0.82);
+  border: 2px solid rgba(255, 255, 255, 0.95);
+  box-shadow:
+    0 12px 32px rgba(34, 48, 125, 0.12),
+    inset 0 0 24px rgba(255, 255, 255, 0.85);
+}
+
+.plastic-sleeve::after {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    130deg,
+    rgba(255, 255, 255, 0.65) 0%,
+    rgba(255, 255, 255, 0.05) 35%,
+    rgba(255, 255, 255, 0.38) 52%,
+    rgba(255, 255, 255, 0) 75%
+  );
+  z-index: 15;
+}
+
+/* Translucent Scotch tape corners */
+.scotch-tape {
+  background: rgba(242, 232, 201, 0.72);
+  border-left: 2px dashed rgba(181, 129, 62, 0.35);
+  border-right: 2px dashed rgba(181, 129, 62, 0.35);
+  box-shadow: 0 2px 6px rgba(34, 48, 125, 0.1);
+  backdrop-filter: blur(2px);
+}
+
+/* Yellow highlighter strip */
+.highlighter-strip {
+  background-color: #f5d74d;
+  color: #22307d;
+  padding: 0.15rem 0.65rem;
+  box-shadow: 2px 2px 0px rgba(34, 48, 125, 0.18);
+}
+
+/* Sticker die-cut white outline */
+.die-cut-sticker {
+  filter: drop-shadow(0 3px 0 #ffffff) drop-shadow(0 -3px 0 #ffffff)
+    drop-shadow(3px 0 0 #ffffff) drop-shadow(-3px 0 0 #ffffff)
+    drop-shadow(0 6px 10px rgba(34, 48, 125, 0.22));
+}
+
+@keyframes marqueeScroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marqueeScroll 28s linear infinite;
+}

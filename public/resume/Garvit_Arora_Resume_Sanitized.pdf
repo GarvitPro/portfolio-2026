@@ -1,0 +1,154 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4638 >>
+stream
+BT
+/F2 18 Tf
+1 0 0 1 48 750 Tm
+(GARVIT ARORA) Tj
+/F1 10 Tf
+1 0 0 1 48 734 Tm
+(AI Engineering / Software Development / Business Systems) Tj
+/F1 9 Tf
+1 0 0 1 48 720 Tm
+(Location: Gurugram, Haryana, India | Email: garvit286@gmail.com) Tj
+/F1 9 Tf
+1 0 0 1 48 707 Tm
+(GitHub: https://github.com/GarvitPro | LinkedIn: https://www.linkedin.com/in/garvit-arora2005) Tj
+/F1 9 Tf
+1 0 0 1 48 694 Tm
+(----------------------------------------------------------------------------------------------------) Tj
+/F2 11 Tf
+1 0 0 1 48 678 Tm
+(EDUCATION) Tj
+/F2 9.5 Tf
+1 0 0 1 48 663 Tm
+(SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu, India) Tj
+/F1 9 Tf
+1 0 0 1 48 650 Tm
+(B.Tech in Computer Science and Business Systems | Expected Graduation: 2027 | CGPA: 9.11/10) Tj
+/F2 11 Tf
+1 0 0 1 48 628 Tm
+(PROFESSIONAL EXPERIENCE) Tj
+/F2 9.5 Tf
+1 0 0 1 48 613 Tm
+(1. Inventic.ai — AI Engineer Intern \(October 2026 - Present | Remote\)) Tj
+/F1 8.5 Tf
+1 0 0 1 48 600 Tm
+(   - Contributing to the development and implementation of AI-based solutions for practical applications.) Tj
+/F1 8.5 Tf
+1 0 0 1 48 588 Tm
+(   - Exploring and applying emerging AI technologies through experimentation and iterative improvement.) Tj
+/F2 9.5 Tf
+1 0 0 1 48 571 Tm
+(2. Defence Research and Development Organisation \(DRDO - IRDE\) — AI & Computer Vision Intern \(Jun 2026 - Jul 2026 | Dehradun\)) Tj
+/F1 8.5 Tf
+1 0 0 1 48 558 Tm
+(   - Developed a Python-based image-processing pipeline to preprocess and enhance underwater periscope imagery.) Tj
+/F1 8.5 Tf
+1 0 0 1 48 546 Tm
+(   - Evaluated image restoration and super-resolution techniques under varying conditions and validated workflows.) Tj
+/F2 9.5 Tf
+1 0 0 1 48 529 Tm
+(3. Greenheck Pvt. Ltd. — Product & Systems Intern \(December 2025 - January 2026 | Gurugram, Haryana\)) Tj
+/F1 8.5 Tf
+1 0 0 1 48 516 Tm
+(   - Analyzed SAP ERP workflows and applied rule-based validation logic to support data consistency.) Tj
+/F1 8.5 Tf
+1 0 0 1 48 504 Tm
+(   - Performed root-cause analysis of Bill of Materials \(BOM\) configuration issues and designed decision logic.) Tj
+/F2 9.5 Tf
+1 0 0 1 48 487 Tm
+(4. Sambandh Health Foundation — Operations & Data Intern \(June 2025 | Gurugram, Haryana\)) Tj
+/F1 8.5 Tf
+1 0 0 1 48 474 Tm
+(   - Cleaned, transformed, and organized multi-source data; conducted EDA and root-cause bottleneck analysis.) Tj
+/F2 11 Tf
+1 0 0 1 48 452 Tm
+(SELECTED ENGINEERING PROJECTS) Tj
+/F1 8.5 Tf
+1 0 0 1 48 437 Tm
+(- Self-Pruning Neural Network \(Python, PyTorch, CIFAR-10\): Custom PrunableLinear layers with learnable sigmoid gates) Tj
+/F1 8.5 Tf
+1 0 0 1 48 425 Tm
+(  and L1 sparsity penalty. Documented report result at lambda = 1e-4: 54.19% test accuracy, 33.42% sparsity.) Tj
+/F1 8.5 Tf
+1 0 0 1 48 410 Tm
+(- AtomQuest Goal Setting & Tracking Portal \(Next.js, TypeScript, Tailwind, NextAuth, Recharts, Zod\): Hackathon portal) Tj
+/F1 8.5 Tf
+1 0 0 1 48 398 Tm
+(  uniting employee goal workflows, manager approvals, quarterly tracking, audit logs, and CSV/XLSX reporting.) Tj
+/F1 8.5 Tf
+1 0 0 1 48 383 Tm
+(- Credit Card Fraud Detection \(Python, Scikit-learn, Random Forest, SMOTE, Pandas\): Imbalance-aware classification) Tj
+/F1 8.5 Tf
+1 0 0 1 48 371 Tm
+(  evaluated with precision, recall, F1-score, ROC-AUC, and confusion matrices.) Tj
+/F1 8.5 Tf
+1 0 0 1 48 356 Tm
+(- DeepSafe \(Python, OpenCV, TensorFlow, Streamlit\): Research prototype for face extraction and CNN training pipeline.) Tj
+/F1 8.5 Tf
+1 0 0 1 48 341 Tm
+(- Fitness Lifestyle Impact Analyzer \(React, TypeScript, Node.js, Express, PostgreSQL, Tableau\): Full-stack analytics.) Tj
+/F2 11 Tf
+1 0 0 1 48 319 Tm
+(TECHNICAL SKILLS) Tj
+/F1 8.5 Tf
+1 0 0 1 48 304 Tm
+(Languages: Python, Java, SQL, C++ | ML & AI: PyTorch, TensorFlow, Scikit-learn, OpenCV, Random Forest, SMOTE, CV, GenAI) Tj
+/F1 8.5 Tf
+1 0 0 1 48 291 Tm
+(Analytics & BI: Data Cleaning, EDA, Root Cause Analysis, Tableau, Excel | Enterprise & DB: PostgreSQL, SAP ERP, BOM) Tj
+/F1 8.5 Tf
+1 0 0 1 48 278 Tm
+(Web & Tools: Next.js, React, TypeScript, Node.js, Express, Tailwind CSS, Streamlit, Pandas, NumPy, Git, Docker, Jupyter) Tj
+/F2 11 Tf
+1 0 0 1 48 256 Tm
+(CERTIFICATIONS) Tj
+/F1 8.5 Tf
+1 0 0 1 48 241 Tm
+(- Google Data Analytics \(Coursera | June 2026\)) Tj
+/F1 8.5 Tf
+1 0 0 1 48 228 Tm
+(- Salesforce Tableau Desktop Foundation \(Salesforce | March 2026\)) Tj
+/F1 8.5 Tf
+1 0 0 1 48 215 Tm
+(- Advanced SQL & DBMS \(Scaler | May 2025\)) Tj
+/F1 8.5 Tf
+1 0 0 1 48 202 Tm
+(- SAP Generative AI Developer \(SAP | March 2026 - March 2027\)) Tj
+/F1 8 Tf
+1 0 0 1 48 174 Tm
+([Privacy-Safe Public Web Edition — Direct Phone Number Omitted for Public Distribution]) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5085
+%%EOF

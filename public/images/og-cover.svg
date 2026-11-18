@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0B0B0F" />
+  <rect x="24" y="24" width="1152" height="582" fill="none" stroke="#8B5CF6" stroke-width="3" />
+  <text x="64" y="88" fill="#B69DFF" font-family="monospace" font-size="18" letter-spacing="4">PERSONAL PORTFOLIO / 2026—27</text>
+  <text x="1136" y="88" text-anchor="end" fill="#A1A1AA" font-family="monospace" font-size="18" letter-spacing="4">AI ENGINEERING × SOFTWARE × BUSINESS</text>
+  <text x="64" y="290" fill="#F7F5F2" font-family="sans-serif" font-weight="900" font-size="128" letter-spacing="-4">GARVIT</text>
+  <text x="64" y="410" fill="#F7F5F2" font-family="sans-serif" font-weight="900" font-size="128" letter-spacing="-4">ARORA.</text>
+  <line x1="64" y1="450" x2="760" y2="450" stroke="#8B5CF6" stroke-width="4" />
+  <text x="64" y="505" fill="#B69DFF" font-family="sans-serif" font-weight="700" font-size="34">I BUILD THINGS THAT THINK.</text>
+  <text x="64" y="565" fill="#A1A1AA" font-family="monospace" font-size="18" letter-spacing="2">B.TECH CSBS @ SRMIST KATTANKULATHUR (9.11 CGPA) // GURUGRAM, HARYANA</text>
+</svg>
